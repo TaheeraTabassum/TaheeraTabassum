@@ -91,3 +91,9 @@ that blend clean design with technical excellence.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaheeraTabassum&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg" />
+</p>
